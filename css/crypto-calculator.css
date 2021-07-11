@@ -1,0 +1,26 @@
+body{
+    background-color:rgb(175, 175, 175);
+    padding: 0;
+    margin: 0;
+}
+
+
+.calculator{
+    margin-right: 25%;
+    margin-left:25%;
+    margin-top: 10%;
+}
+
+
+.form-group{
+    
+}
+
+#alert{
+    margin-top:5%
+}
+
+
+#btn:hover{
+    transform: translateY(-1px);
+}
